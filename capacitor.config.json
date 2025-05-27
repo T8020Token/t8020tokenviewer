@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.nftredirect",
+  "appName": "T8020 Community Token Viewer",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
